@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="ja" dir="ltr"
+ <head>
+   <meta charset="utf-8" />
+   <title>My Life </title>
+   </head>
+   <body>
+    <h1>My Life</h1>
+    <P>
+      充実した海外生活の過ごし方
+      </P>
+      <ol>
+        <li>ストレスをためない工夫</li>
+        <li>気分の良い衣食住を</li>
+        <li>健康的であること</li>
+      </ol>
+   </body>
+   </html>
